@@ -1,0 +1,6 @@
+categoryID	category_cnt
+1 	12 
+2 	12 
+3 	13 
+4 	10 
+8 	12 
