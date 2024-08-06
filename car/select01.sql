@@ -15,7 +15,6 @@ JOIN `OPTION` o
 ON co.FK_OPT_ID = o.PK_OPT_ID
 GROUP BY 
     c.CAR_COMPANY, n.CAR_NAME, y.CAR_YEAR;
-    
-select count(*) from CAR_OPTION;
+
 select * FROM `OPTION`;
 select * FROM CAR_OPTION;
