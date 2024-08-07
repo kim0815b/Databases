@@ -1,0 +1,11 @@
+FirstName	'주문 받은 횟수'
+Margaret 	40 
+Janet 	31 
+Nancy 	29 
+Laura 	27 
+Andrew 	20 
+Michael 	18 
+Robert 	14 
+Steven 	11 
+Anne 	6 
+Adam 	1 

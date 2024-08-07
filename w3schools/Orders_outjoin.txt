@@ -1,0 +1,2 @@
+e.EmployeeID	LastName	FirstName	BirthDate	Photo	Notes	OrderID	CustomerID	o.EmployeeID	OrderDate	ShipperID
+10 	West 	Adam 	9/19/1928 	EmpID10.pic 	An old chum 	 	 	 	 	 
