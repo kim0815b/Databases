@@ -60,3 +60,10 @@ VALUES
 ('CO_11', 'CAR_06', 'OPT_06'),
 ('CO_12', 'CAR_07', 'OPT_07'),
 ('CO_13', 'CAR_07', 'OPT_02');
+
+select * from CAR_OPTION;
+select * from COMPANY;
+select * from INFO;
+select * from `NAME`;
+select * from `OPTION`;
+select * from `YEAR`;
